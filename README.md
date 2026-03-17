@@ -1,8 +1,12 @@
 # BagTrace
 
+Lost Luggage Tracking Prototype
 
-Airline Baggage Tracking Intelligence Platform
+Live Demo:
+https://bagtrace-demo.streamlit.app
 
+BagTrace is a concept tool designed to improve visibility into airline baggage
+tracking and recovery processes.
 ---
 
 ## Overview
